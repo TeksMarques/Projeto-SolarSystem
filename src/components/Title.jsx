@@ -12,7 +12,7 @@ Title.propTypes = {
   headline: PropTypes.string,
 };
 Title.defaultProps = {
-  headline: 'Planetas',
+  headline: 'Stranger',
 };
 
 export default Title;
